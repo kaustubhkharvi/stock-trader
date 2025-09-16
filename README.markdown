@@ -18,7 +18,7 @@ Welcome to **Ultimate Stock Trader**, an advanced stock trading simulation and a
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/ultimate-stock-trader.git
+   git clone https://github.com/kaustubhkharvi/stock-trader.git
    cd ultimate-stock-trader
    ```
 
@@ -75,7 +75,7 @@ Add screenshots or visualizations here to showcase the tool:
 
 
 - [ ] Suggestion
-      (![Top 10 Gainers](images/PS.png))
+      (![Top 10 Gainers](images/TIP.png))
 
 
 ## New Features in This Update 🌟
