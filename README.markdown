@@ -19,7 +19,7 @@ Welcome to **Ultimate Stock Trader**, an advanced stock trading simulation and a
 
    ```bash
    git clone https://github.com/kaustubhkharvi/stock-trader.git
-   cd ultimate-stock-trader
+   cd stock-trader
    ```
 
 2. **Install Dependencies**: Ensure you have Python 3.8+ installed. Install required packages:
