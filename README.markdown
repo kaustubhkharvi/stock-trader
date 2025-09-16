@@ -63,19 +63,19 @@ Here are some pre-written examples to get you started:
 Add screenshots or visualizations here to showcase the tool:
 
 - [ ] Top 10 Gainers/Losers Table
-      (![Top 10 Gainers](images/T10.png))
+      ![Top 10 Gainers](images/T10.png)
 
 
 - [ ] Candlestick Chart with SMA Overlays
-      (![Top 10 Gainers](images/CC.png))
+      ![Top 10 Gainers](images/CC.png)
 
       
 - [ ] Portfolio Summary
-      (![Top 10 Gainers](images/PS.png))
+      ![Top 10 Gainers](images/PS.png)
 
 
 - [ ] Suggestion
-      (![Top 10 Gainers](images/TIP.png))
+      ![Top 10 Gainers](images/TIP.png)
 
 
 ## New Features in This Update 🌟
