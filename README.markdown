@@ -33,7 +33,7 @@ Welcome to **Ultimate Stock Trader**, an advanced stock trading simulation and a
 4. **Run the Application**:
 
    ```bash
-   python main.py
+   python3 main.py
    ```
 
 ## Usage 🚀
