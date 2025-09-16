@@ -1,6 +1,6 @@
 # Ultimate Stock Trader 🚀
 
-Welcome to **Ultimate Stock Trader**, an advanced stock trading simulation and analysis tool built with Python. This project is designed exclusively for the Indian stock market, leveraging real-time data from NIFTY 50 stocks via Yahoo Finance. It offers sophisticated trading features and interactive visualizations, making it an excellent platform for practicing strategies and exploring the Indian market.
+Welcome to **Ultimate Stock Trader**, an advanced stock trading simulation and analysis tool built with Python. This project is designed exclusively for the **Indian Stock Exchange**, leveraging real-time data from **NIFTY 50** stocks via Yahoo Finance. It offers sophisticated trading features and interactive visualizations, making it an excellent platform for practicing strategies and exploring the Indian market.
 
 ## Features ✨
 
@@ -40,7 +40,7 @@ Welcome to **Ultimate Stock Trader**, an advanced stock trading simulation and a
 
 - Start the app and log in with a username.
 - Use commands like:
-  - `prices [symbol]` - View live prices or specific stock details (e.g., `prices RELIANCE`).
+  - `prices <symbol>` - View live prices or specific stock details (e.g., `prices RELIANCE`).
   - `top10` - Display top 10 gainers and losers.
   - `buy <symbol> <shares>` - Purchase stocks (e.g., `buy INFY 10`).
   - `stoploss <symbol> <shares> <price>` - Set a stop-loss (e.g., `stoploss TCS 5 4000`).
@@ -62,13 +62,21 @@ Here are some pre-written examples to get you started:
 
 Add screenshots or visualizations here to showcase the tool:
 
-- [ ] Top 10 Gainers/Losers Table (e.g., `top10` output)
+- [ ] Top 10 Gainers/Losers Table
+      (![Top 10 Gainers](images/T10.png))
 
-- [ ] Candlestick Chart with SMA Overlays (e.g., `graph RELIANCE` output)
 
-- [ ] Portfolio Summary (e.g., `portfolio` output)
+- [ ] Candlestick Chart with SMA Overlays
+      (![Top 10 Gainers](images/CC.png))
 
-(Upload images to the repository and update the links above, e.g., `![Top 10 Gainers](images/top10.png)`)
+      
+- [ ] Portfolio Summary
+      (![Top 10 Gainers](images/PS.png))
+
+
+- [ ] Suggestion
+      (![Top 10 Gainers](images/PS.png))
+
 
 ## New Features in This Update 🌟
 
