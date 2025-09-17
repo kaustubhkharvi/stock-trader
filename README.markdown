@@ -94,6 +94,9 @@ Add screenshots or visualizations here to showcase the tool:
 
 Install via `requirements.txt` or individually with `pip`.
 
+## Download
+Pre-built binaries are available: [GitHub Releases](https://github.com/kaustubhkharvi/stock-trader/releases)
+
 ## Contributing 🤝
 
 Contributions are welcome! Please fork the repository and submit pull requests. Follow these steps:
