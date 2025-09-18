@@ -6,11 +6,7 @@ a = Analysis(
     ['main.py'],
     pathex=['/home/ubuntu/stock-trader'],
     binaries=[],
-    datas=[
-        ('users.json', '.'),
-        ('leaderboard.json', '.'),
-        ('pending_orders.json', '.'),
-    ],
+    datas=[],
     hiddenimports=[
         'rich',
         'yfinance',
